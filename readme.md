@@ -30,4 +30,4 @@ Applicaton types -> Main Widow Style Application and Dialog Style Application (I
 ## Project: GUI Calculator with PyQt5 with Python
 The App is built by following the MVC pattern. </br>
 
-<video controls src="20251123-1651-45.1155597.mp4" title="Title"></video>
+![alt text](image.png)
